@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T20:04:22 IST" name="Surefire suite" finished-at="2020-12-30T20:04:22 IST" duration-ms="118">
+    <groups>
+    </groups>
+    <test started-at="2020-12-30T20:04:22 IST" name="Surefire test" finished-at="2020-12-30T20:04:22 IST" duration-ms="118">
+      <class name="ExponentialAI.API_Automation.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:ExponentialAI.API_Automation.AppTest@396e2f39]" started-at="2020-12-30T20:04:22 IST" name="shouldAnswerWithTrue" finished-at="2020-12-30T20:04:22 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- ExponentialAI.API_Automation.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
